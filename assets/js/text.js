@@ -21,9 +21,9 @@ $(function () {
 });
 $(function () {
     $(".typed").typed({
-        strings: ["Roki", "17 y.o", "Python Developer From Tajikistan", "music lover" ],
-        typeSpeed: 75,
-        backSpeed: 75,
+        strings: ["04.02 🎁", "🅿︎🆈︎🆃︎🅷︎🅾︎🅽︎ Developer","17 y.o","191cm","he/him" ],
+        typeSpeed: 45,
+        backSpeed: 0,
         cursorChar: ['❚'],
         smartBackspace: true,
         fadeOut: true,
